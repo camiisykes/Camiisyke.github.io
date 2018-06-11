@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bohemiancraft.org/index.html</loc>
-    <lastmod>2018-06-09</lastmod>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>http://bohemiancraft.org/contact.html</loc>
-    <lastmod>2018-06-10</lastmod>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -136,107 +136,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://bohemiancraft.org/about.html</loc>
-    <lastmod>2018-06-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/artboard%201white%20logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/imac.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/paper-icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/69397.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/otra-crop-u610.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/otra-crop-u6102.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/otra-crop-u6103.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://bohemiancraft.org/designs.html</loc>
-    <lastmod>2018-06-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/artboard%201white%20logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/imac.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/paper-icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/69397.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u6236.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/8-crop-u6194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u6300.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u6248.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/8-crop-u6206.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u6314.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u62362.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/8-crop-u61942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u63002.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u62482.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/8-crop-u62062.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u63142.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u62363.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/8-crop-u61943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u63003.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u62483.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/8-crop-u62063.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u63143.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://bohemiancraft.org/logos.html</loc>
-    <lastmod>2018-06-09</lastmod>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -307,8 +208,107 @@
     </image:image>
   </url>
   <url>
+    <loc>http://bohemiancraft.org/about.html</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/artboard%201white%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/imac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/paper-icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/69397.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/otra-crop-u610.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/otra-crop-u6102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/otra-crop-u6103.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://bohemiancraft.org/designs.html</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/artboard%201white%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/imac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/paper-icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/69397.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u6236.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/8-crop-u6194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u6300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u6248.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/8-crop-u6206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u6314.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u62362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/8-crop-u61942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u63002.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u62482.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/8-crop-u62062.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u63142.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u62363.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/8-crop-u61943.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u63003.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/lauraramirez2-crop-u62483.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/8-crop-u62063.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bohemiancraft.org/images/quotes2-crop-u63143.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://bohemiancraft.org/color-correction.html</loc>
-    <lastmod>2018-06-09</lastmod>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -369,6 +369,12 @@
   <url>
     <loc>http://bohemiancraft.org/assets/artboard-1logo3.pdf</loc>
     <lastmod>2018-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bohemiancraft.org/assets/index.html</loc>
+    <lastmod>2018-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

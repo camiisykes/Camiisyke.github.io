@@ -1,26 +1,27 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bohemiancraft.org" resolutions="1x" timestamp="1528695682675">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bohemiancraft.org" resolutions="1x" timestamp="1528725378378">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4254191000" ref="index:designs:about:logos:contact:color-correction:gallery"/>
     <file name="nomq_preview_master_a-master.css" crc="145382299" ref="index:designs:about:logos:contact:color-correction:gallery"/>
-    <file name="index.css" crc="4083091005" ref="index"/>
-    <file name="nomq_index.css" crc="4269311981" ref="index"/>
-    <file name="designs.css" crc="176636275" ref="designs"/>
-    <file name="nomq_designs.css" crc="341001328" ref="designs"/>
-    <file name="about.css" crc="4087615799" ref="about"/>
-    <file name="nomq_about.css" crc="487079321" ref="about"/>
-    <file name="logos.css" crc="3890785579" ref="logos"/>
-    <file name="nomq_logos.css" crc="4064280178" ref="logos"/>
-    <file name="contact.css" crc="3917844700" ref="contact"/>
-    <file name="nomq_contact.css" crc="265049755" ref="contact"/>
-    <file name="color-correction.css" crc="3928992491" ref="color-correction"/>
-    <file name="nomq_color-correction.css" crc="476687058" ref="color-correction"/>
-    <file name="gallery.css" crc="281645745" ref="gallery"/>
-    <file name="nomq_gallery.css" crc="3853204536" ref="gallery"/>
+    <file name="index.css" crc="452290820" ref="index"/>
+    <file name="nomq_index.css" crc="264652173" ref="index"/>
+    <file name="designs.css" crc="210806704" ref="designs"/>
+    <file name="nomq_designs.css" crc="287979997" ref="designs"/>
+    <file name="about.css" crc="4177147039" ref="about"/>
+    <file name="nomq_about.css" crc="3804498602" ref="about"/>
+    <file name="logos.css" crc="4293093792" ref="logos"/>
+    <file name="nomq_logos.css" crc="3978833723" ref="logos"/>
+    <file name="contact.css" crc="3841486823" ref="contact"/>
+    <file name="nomq_contact.css" crc="4159051128" ref="contact"/>
+    <file name="color-correction.css" crc="4133451631" ref="color-correction"/>
+    <file name="nomq_color-correction.css" crc="302875994" ref="color-correction"/>
+    <file name="gallery.css" crc="196462532" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="46839128" ref="gallery"/>
   </folder>
   <folder name="assets">
     <file name="laura-ramirez-resume-2017.docx" crc="4123530714" seo="true" mt="1528668172000"/>
     <file name="artboard-1logo3.pdf" crc="3902876552" seo="true" mt="1528554340000"/>
+    <file name="index.html" crc="3859313101" seo="true" mt="1528725004000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:gallery:designs:logos:color-correction"/>
@@ -79,7 +80,6 @@
     <file name="8233x233.jpg" crc="4221396908" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u733-4.png" crc="445639785" ref="index"/>
     <file name="1oli231x231.jpg" crc="274446878" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -164,7 +164,6 @@
     <file name="1oli185x185.jpg" crc="3831825068" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u733-42.png" crc="115583208" ref="index"/>
     <file name="pexels-photo-326240.jpg" crc="435672904" ref="index:logos">
       <caption webpage="index" alt=""/>
       <caption webpage="logos" alt=""/>
@@ -172,7 +171,6 @@
       <caption webpage="logos" alt=""/>
     </file>
     <file name="u427-43.png" crc="464616665" ref="index"/>
-    <file name="u733-43.png" crc="150714635" ref="index"/>
     <file name="24166x165.jpg" crc="3878187905" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -182,34 +180,24 @@
     <file name="1oli163x163.jpg" crc="482460384" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u630-4.png" crc="356048013" ref="about"/>
-    <file name="u635-4.png" crc="143138634" ref="about"/>
+    <file name="u630-5.png" crc="3976246041" ref="about"/>
     <file name="otra-crop-u610.jpg" crc="3858458430" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="pexels-photo-326240-u3822-fr.jpg" crc="3939221129" ref="about"/>
-    <file name="u630-42.png" crc="3890461741" ref="about"/>
-    <file name="u635-42.png" crc="3901668219" ref="about"/>
+    <file name="u630-52.png" crc="3983059022" ref="about"/>
     <file name="otra-crop-u6102.jpg" crc="189168336" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="pexels-photo-326240-u3822-fr2.jpg" crc="3861090705" ref="about"/>
-    <file name="u630-43.png" crc="4086824200" ref="about"/>
+    <file name="pexels-photo-326240-u3822-fr2.jpg" crc="355205981" ref="about"/>
     <file name="otra-crop-u6103.jpg" crc="354673431" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u635-43.png" crc="4258927737" ref="about"/>
-    <file name="u640-4.png" crc="165275595" ref="contact"/>
-    <file name="u644-6.png" crc="4013688547" ref="contact"/>
-    <file name="u7362-4.png" crc="327656842" ref="contact"/>
-    <file name="pexels-photo-326240-u1483-fr.jpg" crc="3950121844" ref="contact"/>
-    <file name="u640-42.png" crc="182101068" ref="contact"/>
-    <file name="u644-62.png" crc="410914837" ref="contact"/>
-    <file name="u7362-42.png" crc="50561591" ref="contact"/>
+    <file name="pexels-photo-326240-u1483-fr.jpg" crc="4268654045" ref="contact"/>
     <file name="pexels-photo-326240-u1483-fr2.jpg" crc="4161500204" ref="contact"/>
-    <file name="u640-43.png" crc="467723174" ref="contact"/>
-    <file name="u644-63.png" crc="3802975342" ref="contact"/>
-    <file name="u7362-43.png" crc="3909323240" ref="contact"/>
+    <file name="u640-4.png" crc="467723174" ref="contact"/>
+    <file name="u644-6.png" crc="3802975342" ref="contact"/>
+    <file name="u7362-4.png" crc="4035942025" ref="contact"/>
     <file name="pexels-photo-3262402.jpg" crc="4145044926" ref="gallery:designs:color-correction">
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
@@ -221,10 +209,6 @@
       <caption webpage="designs" alt=""/>
       <caption webpage="designs" alt=""/>
     </file>
-    <file name="u6675-4.png" crc="4248053837" ref="gallery"/>
-    <file name="u7428-4.png" crc="188104297" ref="gallery"/>
-    <file name="u7423-4.png" crc="4061561139" ref="gallery"/>
-    <file name="u7433-4.png" crc="4147442120" ref="gallery"/>
     <file name="8-crop-u6431.jpg" crc="206128641" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
@@ -244,10 +228,7 @@
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="gallery:designs:logos:color-correction"/>
-    <file name="u6675-42.png" crc="36963322" ref="gallery"/>
-    <file name="u7423-42.png" crc="4065719606" ref="gallery"/>
-    <file name="u7428-42.png" crc="4066321061" ref="gallery"/>
-    <file name="u7433-42.png" crc="4276667603" ref="gallery"/>
+    <file name="u6675-4.png" crc="36963322" ref="gallery"/>
     <file name="8-crop-u64312.jpg" crc="4256825116" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
@@ -266,7 +247,7 @@
     <file name="whatever4-crop-u66452.jpg" crc="521146244" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="u6675-43.png" crc="376388577" ref="gallery"/>
+    <file name="u6675-42.png" crc="376388577" ref="gallery"/>
     <file name="8-crop-u64313.jpg" crc="237148420" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
@@ -285,10 +266,6 @@
     <file name="whatever4-crop-u66453.jpg" crc="4016264824" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="u7423-43.png" crc="233203133" ref="gallery"/>
-    <file name="u7428-43.png" crc="3925853007" ref="gallery"/>
-    <file name="u7433-43.png" crc="4027503319" ref="gallery"/>
-    <file name="u1188-4.png" crc="456250813" ref="designs"/>
     <file name="lauraramirez2-crop-u6236.jpg" crc="3852430430" seo="true" ref="designs">
       <caption webpage="designs" alt=""/>
     </file>
@@ -307,7 +284,6 @@
     <file name="quotes2-crop-u6314.jpg" crc="109071705" seo="true" ref="designs">
       <caption webpage="designs" alt=""/>
     </file>
-    <file name="u1188-42.png" crc="4261705451" ref="designs"/>
     <file name="lauraramirez2-crop-u62362.jpg" crc="124940287" seo="true" ref="designs">
       <caption webpage="designs" alt=""/>
     </file>
@@ -326,7 +302,6 @@
     <file name="quotes2-crop-u63142.jpg" crc="230036180" seo="true" ref="designs">
       <caption webpage="designs" alt=""/>
     </file>
-    <file name="u1188-43.png" crc="4293537620" ref="designs"/>
     <file name="lauraramirez2-crop-u62363.jpg" crc="3846005694" seo="true" ref="designs">
       <caption webpage="designs" alt=""/>
     </file>
@@ -345,7 +320,7 @@
     <file name="quotes2-crop-u63143.jpg" crc="4187453073" seo="true" ref="designs">
       <caption webpage="designs" alt=""/>
     </file>
-    <file name="u1126-5-a.png" crc="4275710927" ref="logos"/>
+    <file name="u1126-5-a.png" crc="50405199" ref="logos"/>
     <file name="logo2 -crop-u2263.jpg" crc="458411906" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
@@ -364,7 +339,7 @@
     <file name="whatever4-crop-u2294.jpg" crc="4060128446" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="u1126-5-a2.png" crc="469851022" ref="logos"/>
+    <file name="u1126-5-a2.png" crc="4120743485" ref="logos"/>
     <file name="logo2 -crop-u22632.jpg" crc="4052684916" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
@@ -383,7 +358,7 @@
     <file name="whatever4-crop-u22942.jpg" crc="521146244" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="u1126-5-a3.png" crc="506968551" ref="logos"/>
+    <file name="u1126-5-a3.png" crc="232742347" ref="logos"/>
     <file name="logo2 -crop-u22633.jpg" crc="3788975778" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
@@ -402,7 +377,6 @@
     <file name="whatever4-crop-u22943.jpg" crc="3856821554" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="u1191-4.png" crc="3914036475" ref="color-correction"/>
     <file name="1oli-crop-u7124.jpg" crc="396964414" seo="true" ref="color-correction">
       <caption webpage="color-correction" alt=""/>
     </file>
@@ -415,7 +389,6 @@
     <file name="9-crop-u7282.jpg" crc="3770856204" seo="true" ref="color-correction">
       <caption webpage="color-correction" alt=""/>
     </file>
-    <file name="u1191-42.png" crc="527461030" ref="color-correction"/>
     <file name="1oli-crop-u71242.jpg" crc="4075268390" seo="true" ref="color-correction">
       <caption webpage="color-correction" alt=""/>
     </file>
@@ -428,7 +401,6 @@
     <file name="9-crop-u72822.jpg" crc="182606837" seo="true" ref="color-correction">
       <caption webpage="color-correction" alt=""/>
     </file>
-    <file name="u1191-43.png" crc="522518254" ref="color-correction"/>
     <file name="1oli-crop-u71243.jpg" crc="3825807222" seo="true" ref="color-correction">
       <caption webpage="color-correction" alt=""/>
     </file>
@@ -442,11 +414,11 @@
       <caption webpage="color-correction" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="399524364" seo="true" mt="1528562645988" redirect="true"/>
-  <file name="about.html" crc="42149819" seo="true" mt="1528562709451" redirect="true"/>
-  <file name="contact.html" crc="4174422975" seo="true" mt="1528678523226" redirect="true"/>
-  <file name="gallery.html" crc="3902542220" seo="true" mt="1528694238521" redirect="true"/>
-  <file name="designs.html" crc="152896106" seo="true" mt="1528577210952" redirect="true"/>
-  <file name="logos.html" crc="3926596200" seo="true" mt="1528562243303" redirect="true"/>
-  <file name="color-correction.html" crc="284016972" seo="true" mt="1528577210950" redirect="true"/>
+  <file name="index.html" crc="4221787121" seo="true" mt="1528724197809" redirect="true"/>
+  <file name="about.html" crc="520042035" seo="true" mt="1528723651938" redirect="true"/>
+  <file name="contact.html" crc="324706543" seo="true" mt="1528725147598" redirect="true"/>
+  <file name="gallery.html" crc="102548455" seo="true" mt="1528724862200" redirect="true"/>
+  <file name="designs.html" crc="228726258" seo="true" mt="1528724586198" redirect="true"/>
+  <file name="logos.html" crc="4134143365" seo="true" mt="1528724665531" redirect="true"/>
+  <file name="color-correction.html" crc="431196209" seo="true" mt="1528724423291" redirect="true"/>
 </manifest>
